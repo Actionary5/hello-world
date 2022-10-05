@@ -10,7 +10,7 @@ I'm currently a student. I'm passionate about Machine Learning, AI and UI/UX.
 - I'm currently studying this [**Data Analytics**](https://www.coursera.org/professional-certificates/google-data-analytics) on Coursera
 - I'm learning ML libraries such as [**TensorFlow**](https://www.tensorflow.org/), [**PyTorch**](https://pytorch.org/), [**PySpark MLlib**](https://spark.apache.org/docs/2.0.0/api/python/pyspark.mllib.html)
 
-#### 📫 How to reach me: UnpretentiousGeek.github.io
+#### 📫 How to reach me: [UnpretentiousGeek.github.io](UnpretentiousGeek.github.io)
 <!--
 #### 🔗 Connect with me
 <a href="https://www.linkedin.com/in/stomar5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SanchitTomar" height="30" width="40" /></a>
