@@ -7,7 +7,7 @@ I'm currently a student. I'm passionate about Machine Learning, AI and UI/UX.
 #### 👀 Here's what I'm up to
 - I'm currently planning my next steps in life
 - Check it out this [**Classification Project**](https://github.com/UnpretentiousGeek/Predict_Churn_for_Telecom/blob/master/Predict_Churn_for_a_Telecom.ipynb) I created a model to predict customer churn for a Telecom company
-- I'm currently studying this [**Data Analytics**](https://www.coursera.org/professional-certificates/google-data-analytics) on Coursera
+- I'm currently attending this Nanodegree Program in [**AI Programming with Python**](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089) on Udacity
 - I'm learning ML libraries such as [**TensorFlow**](https://www.tensorflow.org/), [**PyTorch**](https://pytorch.org/), [**PySpark MLlib**](https://spark.apache.org/docs/2.0.0/api/python/pyspark.mllib.html)
 
 #### 📫 How to reach me: [UnpretentiousGeek.github.io](https://unpretentiousgeek.github.io/)
