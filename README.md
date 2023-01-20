@@ -23,7 +23,7 @@ I'm currently a student. I'm passionate about Machine Learning, AI and UI/UX.
 ## Main repos
 <!-- add comment here -->
 <p align="left">
-  <a href="https://github.com/UnpretentiousGeek/Predict_Churn_for_Telecom"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Unpretentiousgeek&repo=Predict_Churn_for_Telecom&theme=swift&hide_border=true&border_color=000000&show_icons=false" alt="Predict_Churn_for_Telecom"></a>
+  <a href="https://github.com/UnpretentiousGeek/Predict_Churn_for_Telecom"><img width="400" src="https://github-readme-stat-azure.vercel.app/api/pin/?username=Unpretentiousgeek&repo=Predict_Churn_for_Telecom&theme=swift&hide_border=true&border_color=000000&show_icons=false" alt="Predict_Churn_for_Telecom"></a>
   <a href="https://github.com/UnpretentiousGeek/BigMart_Sales_Prediction"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Unpretentiousgeek&repo=BigMart_Sales_Prediction&theme=swift&hide_border=true&border_color=000000&show_icons=false" alt="BigMart_Sales_Prediction"></a>
   <a href="https://github.com/UnpretentiousGeek/Rossmann_Store_Sales"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=unpretentiousgeek&repo=Rossmann_Store_Sales&theme=swift&hide_border=true&border_color=000000&show_icons=false" alt="Rossmann_Store_Sales"></a>
   <a href="https://github.com/UnpretentiousGeek/youtube_api_data_analysis"><img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=unpretentiousgeek&repo=youtube_api_data_analysis&theme=swift&hide_border=true&border_color=000000&show_icons=false" alt="youtube_api_data_analysis"></a>
