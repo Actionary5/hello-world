@@ -31,14 +31,13 @@ TODO: I think I would spend more in hyperparameter tuning but feature engineerin
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
-TODO: Replace the image below with your own.
+TODO:
 
 ![model_train_score.png](model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
-TODO: Replace the image below with your own.
-
+TODO:
 ![model_test_score.png](model_test_score.png)
 
 ## Summary
