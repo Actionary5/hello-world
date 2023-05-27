@@ -33,13 +33,13 @@ TODO: I think I would spend more in hyperparameter tuning but feature engineerin
 
 TODO: Replace the image below with your own.
 
-![model_train_score.png](img/model_train_score.png)
+![model_train_score.png](model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
 TODO: Replace the image below with your own.
 
-![model_test_score.png](img/model_test_score.png)
+![model_test_score.png](model_test_score.png)
 
 ## Summary
 TODO: In this project, I analyzed a bike sharing demand dataset to predict the number of bikes required based on various factors. Initially, I used the raw data without any modifications and built a predictive model. However, to enhance the model's performance, I performed feature engineering by extracting additional features such as hour, day, and month from the datetime column.
